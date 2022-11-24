@@ -1,0 +1,3 @@
+web3modal package is used to allow the user to connect to any wallet
+=> chai is used for testing
+=> ipfs http client is used to connect with the IPFS
